@@ -1,6 +1,6 @@
 # ATH Token
 
-ATH is a decentralized token built on the Polygon/BSC network.
+ATH is a decentralized token built on the Polygon network.
 
 ## Token Details:
 - **Name:** ATH Token
